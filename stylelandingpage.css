@@ -70,7 +70,7 @@
   overflow: visible;
 }
 .rutas {
-  color: #ffffff;
+  color:var(--color-8, #d4d9d8);
   text-align: left;
   font-family: "Montserrat-Medium", sans-serif;
   font-size: 14px;
@@ -84,7 +84,7 @@
   height: 34%;
 }
 .galer-a {
-  color: #ffffff;
+  color:var(--color-8, #d4d9d8);
   text-align: left;
   font-family: "Montserrat-Medium", sans-serif;
   font-size: 14px;
@@ -98,7 +98,7 @@
   height: 34%;
 }
 .blog {
-  color: #ffffff;
+  color:var(--color-8, #d4d9d8);
   text-align: left;
   font-family: "Montserrat-Medium", sans-serif;
   font-size: 14px;
@@ -112,7 +112,7 @@
   height: 34%;
 }
 .cont-ctanos {
-  color: #ffffff;
+  color:var(--color-8, #d4d9d8);
   text-align: left;
   font-family: "Montserrat-Medium", sans-serif;
   font-size: 14px;
@@ -140,7 +140,7 @@
   height: 34%;
 }
 .feedback {
-  color: #ffffff;
+  color:var(--color-8, #d4d9d8);
   text-align: left;
   font-family: "Montserrat-Medium", sans-serif;
   font-size: 14px;
@@ -164,7 +164,7 @@
   object-fit: cover;
 }
 .unime-tours {
-  color: #ffffff;
+  color: var(--color-8, #d4d9d8);
   text-align: left;
   font-family: var(--titulo-font-family, "Montserrat-Bold", sans-serif);
   font-size: var(--titulo-font-size, 96px);
