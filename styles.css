@@ -1,0 +1,54 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+   
+    
+}
+
+a{
+   text-decoration: none; 
+   color: #D4D9D8;
+   font-size: medium;
+}
+
+header{
+    display: flex;
+    min-height: 40px !important;
+    background-color: #143a27;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 40px;
+    align-items: center;
+    margin-left: 33px;
+    margin-right: 10px;
+}
+
+.perfil img{
+    height:40px;
+    align-items: center;
+    margin-left: 33px;
+    margin-right: 10px;
+}
+
+nav a{
+    font-weight: 14;
+    padding-right: 33px;
+}
+
+nav a:hover{
+    font-weight: 800;
+}
+
+.navbar {
+     border-radius: 30px;
+}
+
