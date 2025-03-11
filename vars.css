@@ -1,0 +1,22 @@
+/* Figma Styles of your File */
+:root {
+    /* Colors */
+    /* Fonts */
+    --titulo-font-family: Montserrat-Bold, sans-serif;
+    --titulo-font-size: 96px;
+    --titulo-line-height: normal;
+    --titulo-font-weight: 700;
+    --titulo-font-style: normal;
+    --subtitulo-font-family: Roboto-SemiBold, sans-serif;
+    --subtitulo-font-size: 48px;
+    --subtitulo-line-height: normal;
+    --subtitulo-font-weight: 600;
+    --subtitulo-font-style: normal;
+    --parrafo-font-family: Roboto-Light, sans-serif;
+    --parrafo-font-size: 24px;
+    --parrafo-line-height: normal;
+    --parrafo-font-weight: 300;
+    --parrafo-font-style: normal;
+  
+    /* Effects */
+  }
