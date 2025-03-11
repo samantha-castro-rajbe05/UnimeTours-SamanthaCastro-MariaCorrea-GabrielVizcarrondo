@@ -1,7 +1,27 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import InicioSesion from "./components/InicioSesion";
+import LandingPage from "./components/LandingPage";
 import './App.css'
+
+
+function App() {
+  return (
+    <div>
+      <LandingPage />
+    </div>
+  );
+}
+
+
+function App() {
+  return (
+    <div>
+      <InicioSesion />
+    </div>
+  );
+}
 
 function App() {
   const [count, setCount] = useState(0)
