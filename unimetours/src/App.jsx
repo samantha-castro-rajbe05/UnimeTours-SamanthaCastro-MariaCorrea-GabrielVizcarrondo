@@ -3,8 +3,17 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import InicioSesion from "./components/InicioSesion";
 import LandingPage from "./components/LandingPage";
+import Contactanos from "./components/Contactanos";
 import './App.css'
 
+
+function App() {
+  return (
+    <div>
+      <Contactanos />
+    </div>
+  );
+}
 
 function App() {
   return (
