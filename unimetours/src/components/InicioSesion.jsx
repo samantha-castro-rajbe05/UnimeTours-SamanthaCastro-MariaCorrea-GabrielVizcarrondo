@@ -13,6 +13,8 @@ import phoneIcon from "../assets/phone-call0.svg";
 import barraAbajo from "../assets/barra-abajo0.png";
 
 function InicioSesion() {
+  
+  <script src="./main.jsx" type ="module"></script>
   return (
     <div className="inicio-de-sesi-n">
       <img className="rectangle-27" src={rectangle27} alt="Fondo" />
